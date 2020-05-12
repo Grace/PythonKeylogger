@@ -1,4 +1,4 @@
-# Author: Grace Christenbery
+# Author: Grace C.
 # Program: keylogger.py
 # Language: Python 3.8.2
 # Disclaimer: If you use this software, you agree to only use it for learning or white hat purposes.
