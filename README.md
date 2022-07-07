@@ -1,6 +1,6 @@
 # Python 3.8.2 Keylogger
 
-### Disclaimer: If you use this software, you agree to only use it for learning or white hat purposes.
+### If you use this software, you agree to only use it for learning or white hat purposes.
 
 >Don't be evil - Google
 
